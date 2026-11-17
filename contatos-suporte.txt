@@ -1,0 +1,10 @@
+=== CONTATOS DE SUPORTE - INOVAWEB ===
+
+E-mail Geral: contato@inovaweb.exemplo.com
+E-mail Suporte Técnico: suporte@inovaweb.exemplo.com
+
+Telefone Fixo: (11) 4000-0000
+WhatsApp de Atendimento: (11) 98888-7777
+
+Horário de Atendimento:
+Segunda a Sexta-feira, das 09h às 18h.
